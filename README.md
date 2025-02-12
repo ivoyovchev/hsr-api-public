@@ -1,4 +1,4 @@
-## Project: HumanScanRepository API Sample Client
+## HumanScanRepository API Sample Client
 
 ### Description
 This project provides a simple Python API client to interact with the HumanScanRepository API. The client supports authentication, model retrieval, and file downloads with progress tracking.
@@ -7,11 +7,11 @@ This project provides a simple Python API client to interact with the HumanScanR
 You can find the full documentation at https://api.humanscanrepository.com/ with sample code and live testing.
  
 ### How to get access
-To access the API , you will need credentials.json file which is provided by the owner of HumanScanRepository. Currently, this is done per user cases. To request access, please email to support@humanscanrepository.com.
+To access the API, you will need credentials.json file which is provided per user. To request access, please email to support@humanscanrepository.com.
 
 ### Repository Structure
 ```bash
-API-Sample/
+hsr-api-public/
 │── src/
 │   ├── api_client.py      # Contains all API functions
 │   ├── credentials.json   # Stores user credentials (this will be provided)
@@ -20,7 +20,6 @@ API-Sample/
 │── README.md              # Documentation for usage
 │── requirements.txt       # Dependencies (requests, tqdm, etc.)
 │── LICENSE                # Open-source license (MIT)
-│── setup.py               # If needed for packaging
 ```
 
 ### **Installation**
