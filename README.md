@@ -26,7 +26,7 @@ API-Sample/
 ### **Installation**
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/hsr-api-public.git
+   git clone https://github.com/ivoyovchev/hsr-api-public.git
    cd hsr-api-public
    ```
 2. Create a virtual environment and activate it:
